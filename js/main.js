@@ -7,3 +7,5 @@ var cardThree = 'queen';
 var cardFour = 'queen';
 
 console.log("User flipped " + cardOne);
+
+console.log("test");
