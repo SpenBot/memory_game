@@ -47,6 +47,10 @@ img {
 	margin: 40px 8px;
 }
 
+img:hover {
+	cursor: pointer;
+}
+
 .clearfix:after {
   visibility: hidden;
   display: block;
